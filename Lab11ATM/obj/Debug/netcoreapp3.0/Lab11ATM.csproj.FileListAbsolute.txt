@@ -1,3 +1,0 @@
-/Users/mikekrueger/Projects/Grand Circus/Week 3/Lab11ATM/Lab11ATM/obj/Debug/netcoreapp3.0/Lab11ATM.csprojAssemblyReference.cache
-/Users/mikekrueger/Projects/Grand Circus/Week 3/Lab11ATM/Lab11ATM/obj/Debug/netcoreapp3.0/Lab11ATM.AssemblyInfoInputs.cache
-/Users/mikekrueger/Projects/Grand Circus/Week 3/Lab11ATM/Lab11ATM/obj/Debug/netcoreapp3.0/Lab11ATM.AssemblyInfo.cs
